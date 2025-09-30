@@ -80,8 +80,8 @@ Iterative graphs support loops, where outputs are reprocessed until a stopping c
 
 ---
 
-### 5. Persistent
-Persistent demonstrates **state management, recovery, and fault tolerance** in LangGraph.
+### 5. Persistence
+Persistence demonstrates **state management, recovery, and fault tolerance** in LangGraph.
 
 - **Chatbot with InMemorySaver**  
   - Uses **InMemorySaver** to temporarily store chat history during execution  
